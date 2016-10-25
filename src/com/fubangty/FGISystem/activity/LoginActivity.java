@@ -84,7 +84,6 @@ public class LoginActivity extends BaseActivity implements OnClickListener, MyCa
 	private Button btn_selectRole,btn_login;
 	private TextView title_content,tv_type;
 	private SharedPreferences sp;
-	private int qwe;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
